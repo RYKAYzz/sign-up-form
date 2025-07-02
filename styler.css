@@ -12,7 +12,7 @@ body {
 /*form panel */
 .form-panel {
   flex: 2;
-  background-color: #f9f9f9;
+  background-color: #f4f6f1;
   padding: 3rem;
   display: flex;
   flex-direction: column;
@@ -79,7 +79,7 @@ button[type="submit"]:hover {
   font-size: 0.9rem;
 }
 .login-text a {
-  color: #2769db;
+  color: #4d8eff;
   text-decoration: none;
   font-weight: bold;
 }
@@ -97,6 +97,7 @@ button[type="submit"]:hover {
   position: absolute;
   top: 40%;
   left: 50%;
+  width: 100%;
   transform: translate(-50%, -50%);
   background-color: rgba(0, 0, 0, 0.6);
   padding: 1.5rem 2rem;
